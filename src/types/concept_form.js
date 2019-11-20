@@ -1,0 +1,7 @@
+export default {
+  get: {
+    REQUEST: 'GET_CONCEPT_FORM_REQUEST',
+    SUCCESS: 'GET_CONCEPT_FORM_SUCCESS',
+    FAILURE: 'GET_CONCEPT_FORM_FAILURE',
+  }
+};

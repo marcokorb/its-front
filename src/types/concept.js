@@ -1,0 +1,8 @@
+export default {
+  get: {
+    REQUEST: 'GET_CONCEPT_REQUEST',
+    SUCCESS: 'GET_CONCEPT_SUCCESS',
+    FAILURE: 'GET_CONCEPT_FAILURE',
+    CHECKED: 'CHECK_ITEMS'
+  }
+};
